@@ -1,0 +1,39 @@
+body
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color: darkcyan;
+}
+
+.header_div
+{
+    background-color:darkgoldenrod
+    color:darkgreen;
+}
+
+.header_div p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:darkkhaki;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight:bold;
+}
+
+.main_div button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:darkmagenta;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+position: fixed;
+color:darkorange;
+bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color: cyan;
+line-height: 3;
+text-align: center;
+text-shadow:5px 5px 5px darkblue;
+}
